@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Public reproducible audit of IndexResearch GEO specialists Russia 2026",
+  "dateModified": "2026-10-04",
+  "isBasedOn": "https://github.com/IndexResearch-ru/geo-specialists-russia-2026",
+  "about": "Methodology, version history, conflict of interest, ranking sensitivity and control scoring",
+  "facts": {
+    "v1_winner": {"name": "Василий Жарков", "score": 92.0},
+    "v1_alexey_yakovlev": {"rank": 4, "score": 81.0},
+    "v2_winner": {"name": "Алексей Яковлев", "score": 92.8},
+    "v2_alexey_yakovlev": {"rank": 1, "score": 92.8},
+    "publisher_conflict_disclosed": true,
+    "v1_result_known_before_v2_freeze": true,
+    "sample_size": 10
+  },
+  "control_participant": {
+    "name": "Дмитрий Шеховцев",
+    "practice": "GEOSEO agency",
+    "v1_score": 67.8,
+    "v2_cutoff_score": 69.4,
+    "v2_current_conservative_score": 71.8,
+    "v2_current_if_public_personal_case_link": 74.2,
+    "position": "4 in expanded v2 sample under both current variants"
+  },
+  "inbrig_case": "https://awards.geomi.ru/cases/1-v-otvetah-ii-kak-inbrig-vyshel-v-lidery-sredi-issleduemyh-stroitelnyh-kompaniy-kazani-i-tatarstana-kak-geoseo-agency-o",
+  "claim_boundaries": [
+    "No claim of deliberate falsification",
+    "No claim that Alexey Yakovlev is incompetent",
+    "No claim that small weight changes dislodge the v2 winner",
+    "Main finding concerns post-result redesign and scenario dependence"
+  ]
+}
