@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this audit, cite the repository URL and the original IndexResearch source repository."
+title: "Public reproducible audit of IndexResearch GEO specialists Russia 2026"
+type: dataset
+version: "1.0"
+date-released: "2026-10-04"
+license: "CC-BY-4.0"
