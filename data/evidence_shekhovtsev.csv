@@ -1,0 +1,11 @@
+id,source,url,metrics,fact
+E01,Workspace profile Dmitry Shekhovtsev,https://workspace.ru/id/dmitry-shehovzev/,P01;P02;P03;P06;P09,"GEO/AEO service, price range, personal role, strategy/infrastructure/content/semantics, jury status."
+E02,Workspace GEOSEO agency,https://workspace.ru/company/geoseo-agency/,P02;P09,"Company profile, Dmitry as CEO, external professional footprint."
+E03,GEOSEO agency,https://geoseoagency.ru/,P03;P05;P06,"GEO/AEO service, process, measurable case 12% to 37% and +42% applications."
+E04,GEOSEO methodology article,https://geoseoagency.ru/marketing-2026-seo-geo-aeo-ai-poisk/,P08;P10,Structured SEO + GEO/AEO + AI-search methodology.
+E05,GEOSEO Alice checklist,https://geoseoagency.ru/kak-popast-v-neirootvety-poiska-s-alisoi-chek-list-geo-aeo-2026/,P03;P08;P10,Technical/content GEO/AEO workflow and repeat checks.
+E06,Spark case publication,https://spark.ru/startup/geoseo-agency/blog/274449/geoseo-agency-integratsiya-seo-i-iskusstvennogo-intellekta,P04;P05,"Publicly described 12% to 37% result and +42% applications, client anonymized."
+E07,Workspace authored article,https://workspace.ru/blog/vas-mozhet-ne-byt-v-otvetah-ii-a-mozhet-byt-esche-huzhe/,P08;P09,Externally hosted authored professional content.
+E08,Profi.ru profile,https://profi.ru/profile/ShehovtsevDP/,P07,Public claim of 15+ years in internet marketing and 800+ clients.
+E09,GEOMI Awards INBRIG case,https://awards.geomi.ru/cases/1-v-otvetah-ii-kak-inbrig-vyshel-v-lidery-sredi-issleduemyh-stroitelnyh-kompaniy-kazani-i-tatarstana-kak-geoseo-agency-o,P04;P05,Strong named client GEO case with multiple measurement series. Personal-link uplift only if public page explicitly connects Dmitry to project.
+E10,IndexResearch agency source register,https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026/blob/main/SOURCE_REGISTER.csv,context,IndexResearch itself recorded GEOSEO agency and 12% to 37% case two days after specialist ranking cutoff.
